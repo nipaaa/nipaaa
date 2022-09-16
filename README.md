@@ -14,7 +14,7 @@ I'm a Front-end Web Developer. I love to code and make something new. I have a p
 <div align="left">
 <h2>☕ Connect With Me</h2>
  <a target="_blank"href="mailto:akternipa941@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
-<a target="_blank"href="[https://www.linkedin.com/in/-rafi](https://www.linkedin.com/in/nipa-akter/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<a target="_blank"href="https://www.linkedin.com/in/nipa-akter/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 <a target="_blank"href="https://wa.me/8801700594282"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><a/>
 <a target="_blank"href="https://www.facebook.com/nipa.akter.konabari"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>
 <div/>
