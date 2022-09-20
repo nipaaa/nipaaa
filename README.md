@@ -19,7 +19,7 @@ I'm a Front-end Web Developer. I love to code and make something new. I have a p
 <a target="_blank"href="https://www.facebook.com/nipa.akter.konabari"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>
 <div/>
 
-## 💁‍♂️ For Any Quiries 
+## 💁‍♂️ For Any Queries 
 📧 akternipa941@gmail.com
 
 ## 👨‍💻 My Skills
